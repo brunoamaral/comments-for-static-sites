@@ -9,3 +9,4 @@ A list of software and services to allow comments on static websites.
 - https://www.talkyard.io/blog-comments (Talkyard is a commenting system for your website.)
 - https://comment.sh/ (Lightweight hosted comments powered by Isso)
 - http://docuss.org
+- https://coralproject.net/talk/
